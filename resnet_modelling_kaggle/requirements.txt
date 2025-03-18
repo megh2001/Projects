@@ -1,0 +1,9 @@
+torch>=1.8.0
+torchvision>=0.9.0
+numpy>=1.19.2
+matplotlib>=3.3.4
+pandas>=1.2.3
+pillow>=8.1.0
+torchsummary>=1.5.1
+scikit-learn>=1.0.0
+seaborn>=0.11.2
