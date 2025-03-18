@@ -1,5 +1,8 @@
 # ResNet Model for CIFAR-10 Classification
 
+Kaggle link: https://www.kaggle.com/competitions/deep-learning-spring-2025-project-1/leaderboard?
+Team name: Pomodoro, placed 5th
+
 This repository contains our implementation for the Deep Learning Spring 2025 Project 1, where we develop a modified ResNet architecture to achieve high accuracy on the CIFAR-10 dataset while staying under 5 million parameters.
 
 
